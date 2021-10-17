@@ -14,3 +14,9 @@ end
 
 muda_num
 puts numero
+
+# O QUE SERIA UM SCANF EM JAVA É MAIS SIMPLES NO RUBY
+puts "digite seu nome"
+name = gets
+puts name
+
